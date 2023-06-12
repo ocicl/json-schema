@@ -1,0 +1,10 @@
+* json-schema
+
+JSON Schema validation
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fisxoj/json-schema.git   |
+| commit  | ede034a  |
+| systems | json-schema |
+|---------+-------------------------------------------|
+
